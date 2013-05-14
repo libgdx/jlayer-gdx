@@ -41,8 +41,8 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/libgdx/jlayer-gdx.git</connection>
-		<developerConnection>scm:git:git@github.com:libgdx/jlayer-gdx.git</developerConnection>
+		<connection>scm:git:https://github.com/libgdx/jlayer-gdx.git</connection>
+		<developerConnection>scm:git:https://github.com/libgdx/jlayer-gdx.git</developerConnection>
 		<url>http://github.com/libgdx/jlayer-gdx/</url>
 	</scm>
 
